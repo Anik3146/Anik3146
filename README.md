@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anik3146
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Competitive Programming Algorithms 
+- 🌱 I’m currently doing Competitive Programming
 - 💞️ I’m looking to collaborate on different types of project 
 - 📫 Contact me at 'anikweb153@gmail.com'
 
